@@ -1,9 +1,3 @@
-Hi! I’m Ara Jane Amora, an aspiring Web Developer currently learning HTML and CSS. While I’m just starting out and don’t have any projects or awards yet, I’m excited to grow my skills and build a portfolio soon!
+Hello! I’m Ara Jane Amora, an aspiring web developer who is actively honing my skills in HTML and CSS. While I'm in the early stages of my journey and haven't yet completed any projects or received awards, I am incredibly motivated to develop my abilities and create a strong portfolio in the near future.
 
-I absolutely love learning new technologies, and I also enjoy reading books and listening to music in my free time. My goal is to become a successful web developer, and I’m passionate about growing every day.
-
-Feel free to connect with me:
-
-📧 Gmail: arajaneamora2@gmail.com
-💼 LinkedIn: linkedin.com/in/ara-jane-amora-74629833b
-Let’s learn and build together!
+I have a genuine passion for learning new technologies, which fuels my excitement for this field. In addition to coding, I love diving into books and listening to music during my downtime. My ultimate aim is to become a successful web developer, and I am committed to continuous growth and improvement every single day.
